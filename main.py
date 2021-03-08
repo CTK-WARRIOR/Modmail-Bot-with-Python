@@ -13,4 +13,4 @@ async def on_ready():
 	print("The bot is online!")
 	bot.load_extension("cogs.onMessage")
 
-bot.run(os.environ.get("TOKEN"))
+bot.run(os.environ.get("ODE3MjYxODQyMjQxNjgzNDg3.YEG8Zw.D7xLAMzuXZ0BezOtK7OdcLFtNx4"))
